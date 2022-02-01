@@ -34,7 +34,7 @@ const Auth = () => {
 
        
 
-        const URL = 'http://localhost:5000/auth';
+        const URL = 'https://messaging-app-4.herokuapp.com/auth';
     
 
         const { data: { token, userId, hashedPassword, fullName } } = await axios.post(`${URL}/${isSignup ? 'signup' : 'login'}`, {
