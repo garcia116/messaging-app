@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/messaging-app-4/static/css/main.714e6a5a.css",
-    "main.js": "/messaging-app-4/static/js/main.47b3d7d9.js",
-    "static/js/201.ff41a498.chunk.js": "/messaging-app-4/static/js/201.ff41a498.chunk.js",
-    "static/js/913.5f5fe264.chunk.js": "/messaging-app-4/static/js/913.5f5fe264.chunk.js",
-    "static/js/581.ff13e051.chunk.js": "/messaging-app-4/static/js/581.ff13e051.chunk.js",
-    "static/js/829.06bec04f.chunk.js": "/messaging-app-4/static/js/829.06bec04f.chunk.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/messaging-app-4/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/EmojiOneColor.woff2": "/messaging-app-4/static/media/EmojiOneColor.90ee5fb894c8d349bc54.woff2",
-    "static/media/NotoColorEmoji-flags.woff2": "/messaging-app-4/static/media/NotoColorEmoji-flags.148141acfb7ce6e4f383.woff2",
-    "static/media/signup.jpg": "/messaging-app-4/static/media/signup.f535f5e21204d29d2009.jpg",
-    "static/media/str-chat__connection-error.svg": "/messaging-app-4/static/media/str-chat__connection-error.90385cff548e3b068187c19d5f25e675.svg",
-    "index.html": "/messaging-app-4/index.html",
-    "main.714e6a5a.css.map": "/messaging-app-4/static/css/main.714e6a5a.css.map",
-    "main.47b3d7d9.js.map": "/messaging-app-4/static/js/main.47b3d7d9.js.map",
-    "201.ff41a498.chunk.js.map": "/messaging-app-4/static/js/201.ff41a498.chunk.js.map",
-    "913.5f5fe264.chunk.js.map": "/messaging-app-4/static/js/913.5f5fe264.chunk.js.map",
-    "581.ff13e051.chunk.js.map": "/messaging-app-4/static/js/581.ff13e051.chunk.js.map",
-    "829.06bec04f.chunk.js.map": "/messaging-app-4/static/js/829.06bec04f.chunk.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/messaging-app-4/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/messaging-app/static/css/main.15a7e62b.css",
+    "main.js": "/messaging-app/static/js/main.a198388c.js",
+    "static/js/201.ff41a498.chunk.js": "/messaging-app/static/js/201.ff41a498.chunk.js",
+    "static/js/913.5f5fe264.chunk.js": "/messaging-app/static/js/913.5f5fe264.chunk.js",
+    "static/js/581.ff13e051.chunk.js": "/messaging-app/static/js/581.ff13e051.chunk.js",
+    "static/js/829.06bec04f.chunk.js": "/messaging-app/static/js/829.06bec04f.chunk.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/messaging-app/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/EmojiOneColor.woff2": "/messaging-app/static/media/EmojiOneColor.90ee5fb894c8d349bc54.woff2",
+    "static/media/NotoColorEmoji-flags.woff2": "/messaging-app/static/media/NotoColorEmoji-flags.148141acfb7ce6e4f383.woff2",
+    "static/media/signup.jpg": "/messaging-app/static/media/signup.f535f5e21204d29d2009.jpg",
+    "static/media/str-chat__connection-error.svg": "/messaging-app/static/media/str-chat__connection-error.90385cff548e3b068187c19d5f25e675.svg",
+    "index.html": "/messaging-app/index.html",
+    "main.15a7e62b.css.map": "/messaging-app/static/css/main.15a7e62b.css.map",
+    "main.a198388c.js.map": "/messaging-app/static/js/main.a198388c.js.map",
+    "201.ff41a498.chunk.js.map": "/messaging-app/static/js/201.ff41a498.chunk.js.map",
+    "913.5f5fe264.chunk.js.map": "/messaging-app/static/js/913.5f5fe264.chunk.js.map",
+    "581.ff13e051.chunk.js.map": "/messaging-app/static/js/581.ff13e051.chunk.js.map",
+    "829.06bec04f.chunk.js.map": "/messaging-app/static/js/829.06bec04f.chunk.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/messaging-app/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.714e6a5a.css",
-    "static/js/main.47b3d7d9.js"
+    "static/css/main.15a7e62b.css",
+    "static/js/main.a198388c.js"
   ]
 }
