@@ -8,8 +8,8 @@ const cookies = new Cookies();
 
 const initialState = {
     fullName: '',
-    username: '',
-    password: '',
+    username: 'garcia22',
+    password: 'Hello23',
     confirmPassword: '',
     phoneNumber: '',
     avatarURL: '',
@@ -129,14 +129,19 @@ const Auth = () => {
                     <div className="auth__form-container_fields-account">
                         <p>
                             {isSignup
-                             ? "Already have an account?" 
-                             : "Don't have an account?"
+                             ? "Already have an account? " 
+                             : "Don't have an account? "
                              }
                              <span onClick={switchMode}>
-                             {isSignup ? 'Sign In' : 'Sign Up'}
+                             {isSignup ? 'Sign In ' : 'Sign Up '}
+                             </span>
+                             <span onClick={handleSubmit} style={{color:"#689af1"}}>
+                               {isSignup ? '' : 'Demo'}
                              </span>
                         </p>
+                        
                     </div>
+                    
                 </div> 
             </div>
             <div className="auth__form-container_image">

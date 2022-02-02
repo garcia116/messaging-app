@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #005fff;
+  --primary-color: #157d7e;
   --primary-color-alpha: #005fff1a;
 }
 
@@ -27,7 +27,7 @@ body {
   justify-content: center;
 
   padding: 2rem;
-  background: #005fff;
+  background: #157d7e;
 }
 
 .auth__form-container_image {
@@ -120,8 +120,8 @@ body {
 
 .auth__form-container_fields-content_button button {
   border-radius: 4px;
-  background: #005fff;
-  border: 1px solid #005fff;
+  background: #157d7e;
+  border: 1px solid #157d7e;
   color: #fff;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 500;
