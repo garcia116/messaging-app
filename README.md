@@ -1,4 +1,5 @@
-# messaging-app
+# Chat Messaging App
+###### View Project Demo [Here](https://garcia116.github.io/messaging-app/)
 <img width="1440" alt="chat-1" src="https://user-images.githubusercontent.com/38366630/166405565-e7a039f7-bd89-4091-999f-8c6ca75d3cb7.png">
 
 <img width="1440" alt="chat-2" src="https://user-images.githubusercontent.com/38366630/166405582-39136289-38aa-40b1-a316-595ef405dd44.png">
