@@ -78,7 +78,3 @@ Room for improvement:
 
 <!-- You don't have to include all sections - just the one's relevant to your project -->
 
-
-# Chat Messaging App
-### View Project Demo [Here](https://garcia116.github.io/messaging-app/)
-
