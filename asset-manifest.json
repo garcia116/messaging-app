@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/messaging-app/static/css/main.7d03cdbc.css",
-    "main.js": "/messaging-app/static/js/main.ef5604e2.js",
+    "main.css": "/messaging-app/static/css/main.716a2c7c.css",
+    "main.js": "/messaging-app/static/js/main.c804c5a9.js",
     "static/js/201.ff41a498.chunk.js": "/messaging-app/static/js/201.ff41a498.chunk.js",
     "static/js/913.5f5fe264.chunk.js": "/messaging-app/static/js/913.5f5fe264.chunk.js",
     "static/js/581.ff13e051.chunk.js": "/messaging-app/static/js/581.ff13e051.chunk.js",
@@ -13,8 +13,8 @@
     "static/media/chat-message.png": "/messaging-app/static/media/chat-message.b9329dabbc6e41e534fe.png",
     "static/media/str-chat__connection-error.svg": "/messaging-app/static/media/str-chat__connection-error.90385cff548e3b068187c19d5f25e675.svg",
     "index.html": "/messaging-app/index.html",
-    "main.7d03cdbc.css.map": "/messaging-app/static/css/main.7d03cdbc.css.map",
-    "main.ef5604e2.js.map": "/messaging-app/static/js/main.ef5604e2.js.map",
+    "main.716a2c7c.css.map": "/messaging-app/static/css/main.716a2c7c.css.map",
+    "main.c804c5a9.js.map": "/messaging-app/static/js/main.c804c5a9.js.map",
     "201.ff41a498.chunk.js.map": "/messaging-app/static/js/201.ff41a498.chunk.js.map",
     "913.5f5fe264.chunk.js.map": "/messaging-app/static/js/913.5f5fe264.chunk.js.map",
     "581.ff13e051.chunk.js.map": "/messaging-app/static/js/581.ff13e051.chunk.js.map",
@@ -22,7 +22,7 @@
     "787.c4e7f8f9.chunk.js.map": "/messaging-app/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d03cdbc.css",
-    "static/js/main.ef5604e2.js"
+    "static/css/main.716a2c7c.css",
+    "static/js/main.c804c5a9.js"
   ]
 }
