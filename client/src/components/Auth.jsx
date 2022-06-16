@@ -63,7 +63,7 @@ const Auth = () => {
         <div className="auth__form-container">
             <div className="auth__form-container_fields">
                 <div className="auth__form-container_fields-content">
-                    <p>{isSignup ? 'Sign Up' : 'Sign In'}</p>
+                    <p>{isSignup ? 'Sign Up' : 'Sign In/Demo'}</p>
                     <form onSubmit={handleSubmit} onClick={handleAvatar}>
                         {isSignup && (
                             <div className="auth__form-container_fields-content_input">
@@ -133,10 +133,10 @@ const Auth = () => {
                              : "Don't have an account? "
                              }
                              <span onClick={switchMode}>
-                             {isSignup ? 'Sign In ' : 'Sign Up '}
+                             {isSignup ? 'Sign In (Demo) ' : 'Sign Up '}
                              </span>
-                             <span onClick={handleSubmit} style={{color:"#689af1"}}>
-                               {isSignup ? '' : 'Demo'}
+                             <span class="demo-text" onClick={handleSubmit}>
+                               {isSignup ? '' : 'Click For Demo'}
                              </span>
                         </p>
                         

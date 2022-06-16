@@ -1803,6 +1803,14 @@ div.rta__autocomplete.str-chat__emojisearch {
   }
 }
 
+  .demo-text {
+    color: #689af1 !important;
+  }
+
+  .demo-text:hover {
+    color: #a2c0f4 !important;
+  }
+
 @media screen and (max-width: 650px) {
   .channel-list__container-toggle {
     right: -3%;
